@@ -100,7 +100,7 @@ public class MainActivity extends Activity {
 	
 	private void updateScreen(int newNumber){
 		currentListNumbers.add(newNumber);
-		
+		//starting to generate
 		if(newNumber < 16){
 			if(bListTV.getText().equals("")){
 				bListTV.setText(""+newNumber);
