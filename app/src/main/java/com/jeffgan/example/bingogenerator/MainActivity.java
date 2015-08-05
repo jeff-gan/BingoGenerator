@@ -39,7 +39,7 @@ public class MainActivity extends Activity {
 		gListTV = (TextView)findViewById(R.id.g_numbers);
 		oListTV = (TextView)findViewById(R.id.o_numbers);
 
-		
+		//nice!
 		currentListNumbers = new ArrayList<Integer>();
 		generateButton.setOnClickListener(generateAction);
 		
