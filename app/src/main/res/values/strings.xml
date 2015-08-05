@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BINGO!</string>
+    <string name="generate">Generate!</string>
+    <string name="bingo">BINGO!</string>
+    <string name="current_numbers_title">Current numbers:</string>    
+    <string name="action_settings">Settings</string>
+
+</resources>
